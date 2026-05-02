@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+
+prometheus.yml
+*.md
+
+.github
+
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+.env*
+
+.git
+.gitignore
