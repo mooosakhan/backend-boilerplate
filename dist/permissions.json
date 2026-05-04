@@ -1,0 +1,37 @@
+{
+    "PERMISSIONS": {
+        "USER": "USER",
+        "STUDENT": "STUDENT"
+    },
+    "CAPABILITIES": {
+        "READ": "READ",
+        "WRITE": "WRITE",
+        "UPDATE": "UPDATE",
+        "DELETE": "DELETE"
+    },
+    "USER_ROLES": {
+        "ADMIN": {
+            "permissions": {
+                "USER": [
+                    "READ",
+                    "WRITE",
+                    "UPDATE",
+                    "DELETE"
+                ],
+                "STUDENT": [
+                    "READ",
+                    "WRITE",
+                    "UPDATE",
+                    "DELETE"
+                ]
+            }
+        },
+        "USER": {
+            "permissions": {
+                "STUDENT": [
+                    "READ"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../Routes/Auth/DeleteUser/index.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAEjD,UAAU,iBAAkB,SAAQ,OAAO;IACzC,KAAK,EAAE;QACL,EAAE,CAAC,EAAE,MAAM,CAAC;KACb,CAAC;CACH;AAED,QAAA,MAAM,UAAU,GACd,KAAK,iBAAiB,EACtB,KAAK,QAAQ,KACZ,OAAO,CAAC,IAAI,CAad,CAAC;AAEF,eAAe,UAAU,CAAC"}
